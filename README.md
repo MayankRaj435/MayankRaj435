@@ -22,9 +22,4 @@ const mayank = {
 
 console.log("Ready to collaborate!");
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<MyayankRaj435>/<your-username>/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<MayankRaj435>/<your-username>/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/<MayankRaj435>/<MayankRaj435>/output/github-contribution-grid-snake.svg" />
-</picture>
 
