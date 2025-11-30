@@ -1,7 +1,7 @@
 
 <!-- Header with Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Mayank;I+Build+Software;Welcome+to+my+localhost" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+People!+I'm+Mayank;I+Build+Software;Welcome+to+my+localhost" alt="Typing SVG" />
 </div>
 
 <div align="center">
