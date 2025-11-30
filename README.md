@@ -8,6 +8,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayankRaj435/MayankRaj435/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayankRaj435/MayankRaj435/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/MayankRaj435/MayankRaj435/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 <!-- Terminal Style Bio -->
 ### 👨‍💻 System Status: Online
 
@@ -21,5 +28,6 @@ const mayank = {
 };
 
 console.log("Ready to collaborate!");
+
 
 
