@@ -103,9 +103,6 @@
 
 ---
 
-## 🐍 Snake hunting food 🍕🍎
-
-> The snake below is “searching for food” across my contributions 😭🔥
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayankRaj435/MayankRaj435/output/github-contribution-grid-snake-dark.svg" />
