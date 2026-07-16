@@ -109,7 +109,7 @@ solve       = 500+ DSA problems, algorithmic depth in C++
 
 ### ▸ metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=MayankRaj435&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=D946EF&icon_color=22D3EE&text_color=A855F7" width="48%" />
+<img src="https://github-readme-stats-gray-sigma.vercel.app/api?username=MayankRaj435&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=D946EF&icon_color=22D3EE&text_color=A855F7" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=MayankRaj435&theme=dark&hide_border=true&background=0D0221&ring=D946EF&fire=22D3EE&currStreakLabel=A855F7" width="48%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankRaj435&bg_color=0D0221&color=22D3EE&line=D946EF&point=FFFFFF&hide_border=true" width="98%"/>
