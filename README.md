@@ -1,43 +1,42 @@
-# Hi, I'm Mayank Raj
+# Hi, I'm Mayank 
 
-Full-stack engineer with a background in Robotics & AI. I build web applications, backend systems, and AI-integrated products.
+Full-stack / backend engineer who ships real-time systems and contributes to open source.
+Robotics & AI grad (BIT Bengaluru '26, 8.6 GPA) based in Bengaluru, open to **SDE / Backend / Full-Stack** roles. [Available immediately.]
 
-- 🎓 B.E. Robotics & Artificial Intelligence, BIT Bengaluru (2026), GPA 8.6/10
-- 📍 Based in Bengaluru, India
-- 💼 Open to SDE / Full-Stack / Backend roles
-- 🌱 Open-source contributor — merged PR to [boa-dev/boa](https://github.com/boa-dev/boa)
-
-## Tech Stack
-
-**Languages:** C++, Python, TypeScript
-**Frontend:** React, Next.js
-**Backend:** Node.js, Express, MongoDB
-**Infra:** AWS, Docker, Kubernetes, Nginx, Redis
-**AI/ML:** PyTorch, OpenCV
-
-## Certifications
-
-- JNCIA-Cloud
-- HackerRank SQL Gold (670+ pts)
+## Open source
+- **[boa-dev/boa](https://github.com/boa-dev/boa)**: merged PR implementing TypedArray casting in Boa, a JavaScript engine written in **Rust**.
 
 ## Projects
 
-- **SaaS Sentry** — Real-time AWS telemetry, cost tracking & automated usage alerts (React, Node.js, AWS, Prisma)
-- **Gesturely** — Real-time sign/gesture recognition, live on Streamlit (Python, OpenCV, Deep Learning)
-- **RAG News Chatbot** — Context-aware chatbot over live news data (LangChain, MongoDB, Python)
-- **CrowdQueue** — Hyperlocal real-time virtual queue management (MERN, Redis, Socket.io, BullMQ, Docker)
-- **Sync-Chess** — Low-latency multiplayer chess with live state sync (MERN, Socket.io)
-- **Smart Bookmarks** — Context-aware bookmarking & resurfacing tool (TypeScript, React, Node.js)
+**[CrowdQueue]**
+Hyperlocal real-time virtual queue system. Redis + BullMQ for queue state and jobs, Socket.io for live updates, Dockerised behind Nginx.
+*Stack:* MERN, Redis, BullMQ, Socket.io, Docker · *Result:* [e.g. handles N concurrent users / <X ms update latency>]
 
-## Experience
+**[SaaS Sentry]** 
+Multi-tenant AWS telemetry and cost-tracking platform with automated usage alerts.
+*Stack:* React, Node.js, TypeScript, Prisma, PostgreSQL, AWS
 
-**Full-Stack Dev Intern, Statslane** — Mar 2026 – May 2026
-Next.js, React, Express, Tailwind CSS
+**[Sync-Chess]** 
+Low-latency multiplayer chess with live state sync over WebSockets.
+*Stack:* MERN, Socket.io · *Result:* [e.g. sync latency]
 
-**Joint Secretary, Rotaract District 3191** — Jul 2024 – Jun 2025
+**[Gesturely]**
+Real-time hand-gesture recognition using a MobileNet-based model.
+*Stack:* PyTorch, OpenCV, Streamlit · *Result:* [accuracy / FPS]
 
-## Contact
+**[RAG News Chatbot]**
+Context-aware chatbot answering questions over live news using retrieval-augmented generation.
+*Stack:* LangChain, MongoDB, Python
 
-- Email: itsmayank435@gmail.com
-- LinkedIn: [mayank-raj-203534258](https://linkedin.com/in/mayank-raj-203534258)
-- GitHub: [@MayankRaj435](https://github.com/MayankRaj435)
+**[Smart Bookmarks]**
+Context-aware bookmarking tool that resurfaces saved links when relevant.
+*Stack:* [confirm: Next.js, Supabase, Google OAuth]
+
+
+## Skills
+**Strong:** TypeScript, Node.js/Express, React/Next.js, MongoDB, SQL, Python
+**Working knowledge:** Rust (open-source contributions), Redis, Docker, AWS, Kubernetes, PyTorch/OpenCV, C++
+**Also:** 500+ DSA problems solved · HackerRank SQL Gold · JNCIA-Cloud
+
+## Reach me
+[Email](mailto:itsmayank435@gmail.com) · [LinkedIn](https://linkedin.com/in/mayank-raj-203534258) 
